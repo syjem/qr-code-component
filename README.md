@@ -31,8 +31,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-    1. Writing README.md comprehensive guide.
-    2. CSS custom properties.
+    1. Writing README.md comprehensive guide
+    2. CSS custom properties
 
 ```css
 :root {
